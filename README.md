@@ -4,7 +4,7 @@
 
 *This project was made entirely in C++ and _should_ run on both Windows and Mac.
 
-#### Project Summary
+## Project Summary
 Originally built as a programming class project, this is a small, terminal-based fighting game that includes custom characters, weapons, and a parry system. 
 
 Player and Enemy stats such as names, health, and weapon statistics, can be modified via the "player_config.txt" and "enemy_config.txt" files, respectively.
@@ -15,11 +15,13 @@ The parry system functions by causing a fighter who is within one blow of damage
 
 As for healing, the player has a limited supply of healing potions, which can be consumed to retrieve lost health, with the added cost of losing their turn. This is good if you're trying to cause a fatigued enemy to miss their attack, or if you can simply out-heal the damage they can produce
 
-#### Additional Info
+---
+
+## Additional Info
 
 This project was made as an open-ended project for an advanced programming course. It lacks many of the features I wish it could have, so I hope to add to this and use it as a learning tool throughout the future, pushing into graphics/a more structured and advanced game.
 
-#### Possible Future Content
+## Possible Future Content
 - Graphical Interface
 - Teams/Squads of fighters on each side, allowing for local multiplayer/singleplayer with multiple characters
 - Progression, such as levels to get through, pre-made characters you can add to your ranks
